@@ -12,7 +12,7 @@ Desenvolvimento de um site de portfólio voltado à apresentação pessoal, acad
 
 ## Estrutura do Repositório
 
-txt
+```txt
 portfolio-academico/
 │
 ├── README.md
@@ -32,7 +32,7 @@ portfolio-academico/
 │
 └── projetos/
     └── projeto1/
-
+```
   
 ## Tecnologias Utilizadas
 - HTML
